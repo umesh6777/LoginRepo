@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.here{
+ box-shadow: rgb(218, 210, 210) 0.1rem 0.1rem 0.1rem 0.1rem ;
+  text-align: center;
+  width: 350px;
+  height: 550px;
+  margin: 1% 35% 1%;
+ 
+}
+
+.Rlogo{
+  height: 80%;
+ 
+}
+
+.upper{
+  height: 150px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   font-size: x-small;
+ 
+}
+.last{
+  margin-top: 2%;
+  font-size: x-small;
+  font-weight: bold;
+}
+
+
+
+.inp {
+  width: 260px;
+  height: 37px;
+  padding-left: 20px;
+  border-radius: 25px;
+  margin: auto;
+ margin-top: 5%;
+ border-color: black;
+}
+
+
+.main1 {
+  width: 350px;
+  height: 40px;
+  display: flex;
+}
+
+.btn2 { 
+  width: 300px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  background-color: white;
+}
+  
+
+
+
+
+.btn{
+  height: 35px;
+  width: 200px;
+ border-radius: 35px;
+ margin: auto;
+ margin-top: 5%;
+  background-color: #E70B89;
+  border-color: transparent;
+}
+
+* {
+  padding: 0%;
+  margin: 0%;
+  text-decoration: none;
+}
+
+
+.l1{
+  color: rgb(241, 3, 154);
+ padding-top: 2%;
+ padding-left: 62%;
+ padding-right: 0px;
+ font-size: 14px;
+
+}
+
+
+.view {
+  width: 350px;
+  display: grid;
+  grid-template-columns: 1fr;
+  
+}
+
+.a{
+  border-bottom: 5px solid #E70B89;
+}
+
+
+.span{
+ color: rgb(203, 16, 16);
+ cursor: pointer;
+ margin: 0%;
+}
+
+.flogo{
+  
+  padding: 10px;
+  background-color: white;
+  box-shadow: rgba(6, 6, 5, 0.218) 0px 11px 20px;
+  margin-left: 20px;
+  border-radius: 25px;
+  height: 20px;
+
+}
+
+.div1,.div2{
+  margin-top: 4%;
+  font-size: 10px;
+  font-weight: bold;
+}
